@@ -1,4 +1,4 @@
-package vod.med.api.endereco;
+package vod.med.api.domain.endereco;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;

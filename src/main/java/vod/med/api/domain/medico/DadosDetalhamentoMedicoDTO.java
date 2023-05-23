@@ -1,6 +1,6 @@
-package vod.med.api.medico;
+package vod.med.api.domain.medico;
 
-import vod.med.api.endereco.Endereco;
+import vod.med.api.domain.endereco.Endereco;
 import vod.med.api.enums.Especialidade;
 
 public record DadosDetalhamentoMedicoDTO(Long id, String nome, String email, String crm, String telefone,Especialidade especialidade, Endereco endereco) {

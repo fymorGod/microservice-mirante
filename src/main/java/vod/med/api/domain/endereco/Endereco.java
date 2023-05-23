@@ -1,4 +1,4 @@
-package vod.med.api.endereco;
+package vod.med.api.domain.endereco;
 
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;

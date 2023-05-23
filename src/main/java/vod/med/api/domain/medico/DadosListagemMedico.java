@@ -1,4 +1,4 @@
-package vod.med.api.medico;
+package vod.med.api.domain.medico;
 
 import vod.med.api.enums.Especialidade;
 

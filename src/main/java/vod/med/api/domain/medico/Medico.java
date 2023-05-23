@@ -1,4 +1,4 @@
-package vod.med.api.medico;
+package vod.med.api.domain.medico;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import vod.med.api.dtos.DadosCadastroMedico;
-import vod.med.api.endereco.Endereco;
+import vod.med.api.domain.endereco.Endereco;
 import vod.med.api.enums.Especialidade;
 
 @Table(name = "medicos")
